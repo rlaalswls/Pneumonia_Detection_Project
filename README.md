@@ -1,5 +1,6 @@
 # Pneumonia_Detection_Project
 YOLO를 사용한 Pneumonia Detection Project
+
 목표 : 전문의의 판독을 보조할 수 있는 수준의 성능을 달성하고, 오진율을 낮추고 판독 속도 향상
 
 rsna-pneumonia-detector Computer Vision Dataset
